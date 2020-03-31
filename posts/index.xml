@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>AugmantedReality</title>
-      <link>https://Arifa99.github.io/posts/augmantedreality/</link>
+      <title>How to Build Augmented Reality App using Unity and ARCore SDK</title>
+      <link>https://Arifa99.github.io/posts/augmented-reality/</link>
       <pubDate>Mon, 30 Mar 2020 15:12:26 +0530</pubDate>
       
-      <guid>https://Arifa99.github.io/posts/augmantedreality/</guid>
-      <description>hello sbbbbbbbbbb vvvvvv</description>
+      <guid>https://Arifa99.github.io/posts/augmented-reality/</guid>
+      <description>Hello everyone, In this tutorial, I&amp;rsquo;ll walk through how to build an Augmented reality app using Unity and Google ARCore SDK. First of all, I will cover some core concepts, then jump into the project setup(Hardware + Software Requirements) and then to code. ######CORE CONCEPTS Augmented Reality:- It is a technology that superimposes a computer-generated image on a user&amp;rsquo;s view of the real world, thus providing a composite view.
+ARCore:- ARCore is a software development kit(SDK) developed by Google for creating an augmented reality app.</description>
     </item>
     
     <item>
