@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Arifa&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 30 Mar 2020 15:12:26 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 15:12:26 +0530</lastBuildDate>
     
 	<atom:link href="https://Arifa99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tutorial 1:How to create Augmented Reality App using Unity and ARFoundation for Android</title>
+      <link>https://Arifa99.github.io/posts/arfoundationapp/</link>
+      <pubDate>Mon, 25 May 2020 15:12:26 +0530</pubDate>
+      
+      <guid>https://Arifa99.github.io/posts/arfoundationapp/</guid>
+      <description>Hello everyone, In this tutorial, I&amp;rsquo;ll walk through how to build an Augmented reality app using Unity and ARFoundation. First of all, I will cover some core concepts, then jump into the project setup and then to code.
+CORE CONCEPTS Unity:- It is a powerful, full-featured, commercial, cross-platform game engine developed by Unity Technologies.
+ARFoundation:- Unity AR framework which allow you to create one AR application and deploy on android as well as ios.</description>
+    </item>
     
     <item>
       <title>Basic Requirements for creating Augmented Reality App using Unity and ARCore SDK </title>
@@ -20,17 +31,6 @@
       <description>Hello everyone, In this article, I&amp;rsquo;ll tell you what are the basic requirements(Hardware + Software Requirements) for creating Augmented reality app using Unity and Google ARCore SDK. First of all, I will cover some core concepts, then jump into Hardware and Software Requirements.
 CORE CONCEPTS Augmented Reality:- It is a technology that superimposes a computer-generated image on a user&amp;rsquo;s view of the real world, thus providing a composite view.
 ARCore:- ARCore is a software development kit(SDK) developed by Google for creating an augmented reality app.</description>
-    </item>
-    
-    <item>
-      <title>Tutorial 1:How to create Augmented Reality App using Unity and ARFoundation for Android</title>
-      <link>https://Arifa99.github.io/posts/arfoundationapp/</link>
-      <pubDate>Mon, 30 Mar 2020 15:12:26 +0530</pubDate>
-      
-      <guid>https://Arifa99.github.io/posts/arfoundationapp/</guid>
-      <description>Hello everyone, In this tutorial, I&amp;rsquo;ll walk through how to build an Augmented reality app using Unity and ARFoundation. First of all, I will cover some core concepts, then jump into the project setup and then to code.
-CORE CONCEPTS Unity:- It is a powerful, full-featured, commercial, cross-platform game engine developed by Unity Technologies.
-ARFoundation:- Unity AR framework which allow you to create one AR application and deploy on android as well as ios.</description>
     </item>
     
     <item>
